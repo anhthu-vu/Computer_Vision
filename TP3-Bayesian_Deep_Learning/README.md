@@ -1,4 +1,4 @@
 In these practical sessions, we . To be more specific:
-- In `3-a: Bayesian linear regression` section, we
-- In `3-b: Approximate inference` section, we
-- In `3-c: Applications of uncertainty` section, we
+- In `3-a: Bayesian linear regression` section, we implemented Bayesian Linear Regression models with varying basis functions (linear, polynomial and Gaussian) on some 1D toy datasets, and then performed some analysis to gain deeper insight into the posterior and predictive distributions.
+- In `3-b: Approximate inference` section, we explored and compared three different approaches — Laplace approximation, variational inference with a mean-field approximation, and Monte Carlo dropout — to approximate the posterior distributions on two 2D toy binary classification datasets.
+- In `3-c: Applications of uncertainty` section, we explored several applications based on uncertainty estimation, namely failure prediction and out-of-distribution detection.
